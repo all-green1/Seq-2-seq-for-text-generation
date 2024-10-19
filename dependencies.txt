@@ -1,0 +1,5 @@
+dependencies:
+nltk
+keras
+tensorflow
+regex
